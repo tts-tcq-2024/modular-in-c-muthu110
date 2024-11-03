@@ -1,4 +1,4 @@
-#include "ColorCoding.h"
+#include "Color_Coding.h"
 
 const char* majorColorNames[] = {
     "White", "Red", "Black", "Yellow", "Violet"
